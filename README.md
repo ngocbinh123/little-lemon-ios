@@ -12,3 +12,8 @@ The Little Lemon iOS app provides a seamless ordering experience for Mediterrane
 ## Tech info
 - IOS 17
 - MVVM 
+
+## Screenshot 
+![OnBoarding Screen](https://github.com/ngocbinh123/little-lemon-ios/blob/master/intro/lli_onboarding.png)
+![Home Screen](https://github.com/ngocbinh123/little-lemon-ios/blob/master/intro/lli_home.png)
+![Profile Screen](https://github.com/ngocbinh123/little-lemon-ios/blob/master/intro/lli_profile.png)
